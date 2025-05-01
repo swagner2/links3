@@ -1,26 +1,26 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Steven Wagner - Links",
+  "Name": "Steven Wagner",
+  "Description": "4X Founder, Principal @ Sale Ignition, Inbox Smarts, Emailie, Next Email Signature, Lux Skin Oils, Tenaicous Speed",
   "links": [
     {
       "Title": "Website",
-      "URL": "http://www.harindu.dev",
+      "URL": "http://www.saleignition.com",
       "icon_classes": "fas fa-link",
     },
     {
-      "Title": "Github",
-      "URL": "https://github.com/harindulk",
+      "Title": "Free Retention Dashboard",
+      "URL": "https://retentiondash.com/",
       "icon_classes": "fab fa-github",
     },
     {
-      "Title": "Play Store",
+      "Title": "Free $100M DTC Brands Email Templates",
       "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
       "icon_classes": "fab fa-google-play"
     },
     {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
+      "Title": "Emailie - unlimited Klaviyo emailes for a fixed monthly price",
+      "URL": "https://emailie.carrd.co/",
       "icon_classes": "fab fa-itch-io"
     },
     {
