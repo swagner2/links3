@@ -14,23 +14,23 @@ let config = {
       "icon_classes": "fab fa-github",
     },
     {
-      "Title": "Free $100M DTC Brands Email Templates",
+      "Title": "Free $100M DTC Brands Emails",
       "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
       "icon_classes": "fab fa-google-play"
     },
     {
-      "Title": "Emailie - unlimited Klaviyo emailes for a fixed monthly price",
+      "Title": "Emailie - unlimited emails",
       "URL": "https://emailie.carrd.co/",
       "icon_classes": "fab fa-itch-io"
     },
     {
-      "Title": "Blog",
-      "URL": "blog-test",
+      "Title": "Retention OS Course",
+      "URL": "https://retentionos.com/",
       "icon_classes": "fas fa-blog"
     },
     {
       "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
+      "URL": "https://x.com/TenaciousSteven",
       "icon_classes": "fab fa-twitter"
     },
     {
