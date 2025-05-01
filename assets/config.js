@@ -35,12 +35,12 @@ let config = {
     },
     {
       "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "URL": "https://www.linkedin.com/in/stevenjwagner/",
       "icon_classes": "fab fa-linkedin"
     },
     {
       "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://www.youtube.com/@stevenjwagner",
       "icon_classes": "fab fa-youtube"
     },
   ]
